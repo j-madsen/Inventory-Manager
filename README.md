@@ -43,6 +43,8 @@ The application will also validate fields/selections, confirm saves, deletions, 
 ### Pre-Requisites
 You will need the below 
 - Download IntelliJ (https://www.jetbrains.com/idea/)
-- Download JavaFX (https://www.oracle.com/java/technologies/install-javafx-sdk.html)and add it to IntelliJ.(Here is a great guide on how to set it up in IntelliJ!https://javabook.bloomu.edu/setupjavafx.html)
-- 
+- Download JavaFX (https://www.oracle.com/java/technologies/install-javafx-sdk.html)and add it to IntelliJ. (Here is a great guide on how to set it up in IntelliJ! https://javabook.bloomu.edu/setupjavafx.html)
+### Instructions
+- Download project ZIP and extract.
+- Open project folder in IntelliJ, build and run the application.
 
